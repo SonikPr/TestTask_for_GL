@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskGL", "TestTaskGL\TestTaskGL.csproj", "{45DC6D83-CF2E-4E74-98F7-27B5DC3C3F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DC6D83-CF2E-4E74-98F7-27B5DC3C3F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DC6D83-CF2E-4E74-98F7-27B5DC3C3F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DC6D83-CF2E-4E74-98F7-27B5DC3C3F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DC6D83-CF2E-4E74-98F7-27B5DC3C3F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB9532C4-6918-4B84-8630-810968D98AB8}
+	EndGlobalSection
+EndGlobal
